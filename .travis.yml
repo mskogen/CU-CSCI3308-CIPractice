@@ -1,7 +1,5 @@
 language: c
 
-script: ./geometry_test
-
 addons:
   apt:
     sources:
