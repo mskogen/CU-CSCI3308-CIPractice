@@ -1,0 +1,17 @@
+install: make get-deps
+
+language: c
+
+script: scons
+
+compiler:
+  - clang
+  - gcc
+
+addons:
+  apt:
+    sources:
+      - george-edison55-precise-backports
+    packages:
+      - cmake-data
+      - cmake
