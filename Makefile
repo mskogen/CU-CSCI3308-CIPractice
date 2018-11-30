@@ -1,6 +1,6 @@
-# Andy Sayler
+# Matt Skogen & Isaiah Jones
 # CI Practice
-# Summer 2014
+
 
 CC = gcc
 CFLAGS = -c -g -Wall -Wextra

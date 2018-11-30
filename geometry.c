@@ -1,8 +1,7 @@
 /*
  * geometry.c
- * Andy Sayler
+ * Matt Skogen & Isaiah Jones
  * CSCI 3308
- * Summer 2014
  *
  * This file contains a simple geomtery functions.
  *
