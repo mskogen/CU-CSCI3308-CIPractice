@@ -1,5 +1,7 @@
 language: c
 
+script: make clean test
+
 addons:
   apt:
     sources:
