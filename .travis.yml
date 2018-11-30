@@ -1,6 +1,10 @@
 language: c
 
-script: make clean test
+script: 
+  - make dep
+  - make test
+
+install: sudo apt-get install check
 
 addons:
   apt:
