@@ -1,6 +1,6 @@
 language: c
 
-script: scons
+script: ./geometry_test
 
 addons:
   apt:
